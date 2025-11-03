@@ -1,0 +1,5 @@
+{
+  "name": "Arithmetica Game Portal",
+  "description": "A web application to play the game Arithmetica, view details about it, and find similar games.",
+  "requestFramePermissions": []
+}
